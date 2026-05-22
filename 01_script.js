@@ -1,3 +1,1 @@
-'use strict';
-
-console.log("01_script.js initialized.");
+console.log("js 파일 불러오기");
